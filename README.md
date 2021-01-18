@@ -4,7 +4,6 @@ Student, developer, and gamer in free time.
 
 [![Twitter Badge](https://img.shields.io/badge/-@gwerner__-blueviolet?style=flat-square&labelColor=blueviolet&logo=twitter&logoColor=white)](https://twitter.com/gwerner_)
 [![Twitter Badge](https://img.shields.io/badge/-Guilherme%20Werner-blueviolet?style=flat-square&labelColor=blueviolet&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-quadros-werner-720798163/)
-[![Twitter Badge](https://img.shields.io/badge/-guilhermeqwerner@gmail.com-blueviolet?style=flat-square&labelColor=blueviolet&logo=gmail&logoColor=white)](mailto:guilhermeqwerner@gmail.com)
 
 Passionate about technology, computing and video games. Studying computer science.
 
