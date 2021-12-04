@@ -5,6 +5,8 @@ Student, developer, and gamer in free time.
 [![Twitter Badge](https://img.shields.io/badge/-@gwerner__-blueviolet?style=flat-square&labelColor=blueviolet&logo=twitter&logoColor=white)](https://twitter.com/gwerner_)
 [![Twitter Badge](https://img.shields.io/badge/-Guilherme%20Werner-blueviolet?style=flat-square&labelColor=blueviolet&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-quadros-werner-720798163/)
 
+![GuilhermeWerner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeWerner&count_private=true&show_icons=true&hide_border=true)
+
 Passionate about technology, computing and video games. Studying computer science.
 
 <!--
@@ -44,8 +46,6 @@ Here are some ideas to get you started:
 <br/>
 
 ### GitHub Stats
-
-![GuilhermeWerner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeWerner&count_private=true&show_icons=true&hide_border=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWerner&layout=compact&hide_border=true)
 
