@@ -7,8 +7,8 @@ Passionate about technology, computing and video games. Studying computer scienc
 <hr/>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeWerner&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWerner&layout=compact&hide_title=true&hide_border=true&exclude_repo=GerenciaProjetos,SitePi,AEDII&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeWerner&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWerner&layout=compact&hide_border=true&exclude_repo=GerenciaProjetos,SitePi,AEDII&theme=tokyonight"/>
 </div>
 
 <br>
