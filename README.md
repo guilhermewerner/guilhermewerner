@@ -7,12 +7,12 @@ Passionate about technology, computing and video games. Studying computer scienc
 <hr/>
 
 <div align="center">
-    <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeWerner&theme=tokyonight"/>
-    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeWerner&theme=tokyonight"/>
-    <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeWerner&theme=tokyonight"/>
+    <img width="99%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeWerner&theme=tokyonight"/>
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeWerner&theme=tokyonight"/>
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeWerner&theme=tokyonight"/>
 </div>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=GuilhermeWerner&theme=tokyonight&hide_border=true" alt="GuilhermeWerner" width="70%" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=GuilhermeWerner&theme=tokyonight&hide_border=true" alt="GuilhermeWerner" width="99%" /></p>
 
 <hr/>
 
