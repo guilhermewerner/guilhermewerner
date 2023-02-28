@@ -8,8 +8,8 @@ Passionate about technology, computing and video games. Studying computer scienc
 
 <div align="center">
     <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeWerner&theme=tokyonight" />
-    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeWerner&theme=tokyonight" />
     <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeWerner&theme=tokyonight" />
+    <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeWerner&theme=tokyonight" />
     <img width="98%" src="https://streak-stats.demolab.com?user=GuilhermeWerner&theme=tokyonight&hide_border=true" alt="GuilhermeWerner" />
     <!--<img width="98%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Werner255&theme=tokyonight&hide_border=true&range=all_time" alt="GuilhermeWerner" />-->
 </div>
