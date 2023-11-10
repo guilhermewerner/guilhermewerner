@@ -1,12 +1,10 @@
 ## Guilherme Werner
 
-:us:
-
 I am a versatile professional with a passion for technology, backed by a strong academic background and a diverse professional journey. Currently, I am employed as a Development Intern at 3ADigitall Technology, where I contribute to the development of corporate systems using C#, ASP.NET, .NET Core, and Docker.  
 
 I am always seeking new challenges and opportunities to apply my knowledge and passion for technology. If you are looking for a versatile, dedicated professional with a solid foundation, I am available to contribute to the success of your project or company. Let's connect and explore possibilities together! 👨‍💻🚀
 
-:brazil:
+<hr/>
 
 Sou um profissional multifacetado e apaixonado por tecnologia, com uma sólida formação acadêmica e uma trajetória profissional diversificada. Atualmente, estou empregado como Estagiário de Desenvolvimento na 3ADigitall Tecnologia, onde contribuo para o desenvolvimento de sistemas corporativos utilizando C#, ASP.NET, .NET Core e Docker.  
 
