@@ -2,27 +2,27 @@
 
 I am well-equipped to perform the following roles: Software Engineer, Backend Developer, DevOps Engineer, Cloud Engineer, Infrastructure Engineer, Full-Stack Developer.
 
-• Work experience in Software Development with strong expertise in C# and Rust, building scalable and high-performance applications.
-• Hands-on experience with Cloud-Native Environments, including Kubernetes (K3s, Proxmox, Longhorn) for container orchestration, storage, and high availability clusters.
-• Solid background in Infrastructure and Networking, including VLAN segmentation, firewall management, and monitoring solutions for enterprise-grade environments.
-• Experience developing APIs, microservices, and automation tools, including bots and crawlers for real-time data collection, system monitoring, and integration.
-• Knowledge in DevOps practices, CI/CD pipelines, Docker, and virtualization for efficient deployment and system reliability.
-• Work experience with local and distributed storage solutions, including MinIO (S3-compatible) and database management for high-availability setups.
-• Skilled in Frontend and Backend development, leveraging modern frameworks and UI components with React, TypeScript, and clean code practices.
-• Strong problem-solving skills with focus on performance, scalability, and security in software and infrastructure projects.
+- Work experience in Software Development with strong expertise in C# and Rust, building scalable and high-performance applications.
+- Hands-on experience with Cloud-Native Environments, including Kubernetes (K3s, Proxmox, Longhorn) for container orchestration, storage, and high availability clusters.
+- Solid background in Infrastructure and Networking, including VLAN segmentation, firewall management, and monitoring solutions for enterprise-grade environments.
+- Experience developing APIs, microservices, and automation tools, including bots and crawlers for real-time data collection, system monitoring, and integration.
+- Knowledge in DevOps practices, CI/CD pipelines, Docker, and virtualization for efficient deployment and system reliability.
+- Work experience with local and distributed storage solutions, including MinIO (S3-compatible) and database management for high-availability setups.
+- Skilled in Frontend and Backend development, leveraging modern frameworks and UI components with React, TypeScript, and clean code practices.
+- Strong problem-solving skills with focus on performance, scalability, and security in software and infrastructure projects.
 
 <hr/>
 
 Estou preparado para atuar nas seguintes funções: Engenheiro de Software, Desenvolvedor Backend, Engenheiro DevOps, Engenheiro de Cloud, Engenheiro de Infraestrutura, Desenvolvedor Full-Stack.
 
-• Experiência em Desenvolvimento de Software, com forte expertise em C# e Rust, construindo aplicações escaláveis e de alta performance.
-• Vivência prática em Ambientes Cloud-Native, incluindo Kubernetes (K3s, Proxmox, Longhorn) para orquestração de containers, armazenamento e clusters de alta disponibilidade.
-• Sólida experiência em Infraestrutura e Redes, incluindo segmentação de VLAN, gestão de firewall e soluções de monitoramento para ambientes corporativos.
-• Desenvolvimento de APIs, microsserviços e ferramentas de automação, incluindo bots e crawlers para coleta de dados em tempo real, monitoramento de sistemas e integrações.
-• Conhecimento em práticas de DevOps, pipelines de CI/CD, Docker e virtualização para implantações eficientes e alta confiabilidade.
-• Experiência com soluções de armazenamento locais e distribuídas, incluindo MinIO (compatível com S3) e gerenciamento de bancos de dados em setups de alta disponibilidade.
-• Habilidade em desenvolvimento Frontend e Backend, utilizando frameworks modernos e componentes de UI com React, TypeScript e práticas de código limpo.
-• Forte capacidade de resolução de problemas com foco em performance, escalabilidade e segurança em projetos de software e infraestrutura.
+- Experiência em Desenvolvimento de Software, com forte expertise em C# e Rust, construindo aplicações escaláveis e de alta performance.
+- Vivência prática em Ambientes Cloud-Native, incluindo Kubernetes (K3s, Proxmox, Longhorn) para orquestração de containers, armazenamento e clusters de alta disponibilidade.
+- Sólida experiência em Infraestrutura e Redes, incluindo segmentação de VLAN, gestão de firewall e soluções de monitoramento para ambientes corporativos.
+- Desenvolvimento de APIs, microsserviços e ferramentas de automação, incluindo bots e crawlers para coleta de dados em tempo real, monitoramento de sistemas e integrações.
+- Conhecimento em práticas de DevOps, pipelines de CI/CD, Docker e virtualização para implantações eficientes e alta confiabilidade.
+- Experiência com soluções de armazenamento locais e distribuídas, incluindo MinIO (compatível com S3) e gerenciamento de bancos de dados em setups de alta disponibilidade.
+- Habilidade em desenvolvimento Frontend e Backend, utilizando frameworks modernos e componentes de UI com React, TypeScript e práticas de código limpo.
+-  Forte capacidade de resolução de problemas com foco em performance, escalabilidade e segurança em projetos de software e infraestrutura.
 
 <hr/>
 
